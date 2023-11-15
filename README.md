@@ -1,1 +1,1 @@
-# guice-example
+# A simple google guice example
