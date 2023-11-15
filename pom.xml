@@ -62,7 +62,7 @@
                             <addDefaultEntries>false</addDefaultEntries>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>dependency/</classpathPrefix>
-                            <mainClass>ru.jf17.ide.Main</mainClass>
+                            <mainClass>ru.jf17.guice.example.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
